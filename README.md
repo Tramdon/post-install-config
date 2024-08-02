@@ -210,10 +210,4 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 
 
 
-🎉Congratulations! You have configured osTicket succesfully!🎉 Click [here](https://github.com/roslyndwilliams/ticket-lifecycle) to move on to the final part of this tutorial! 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
+🎉Congratulations! You have configured osTicket succesfully!🎉 Click [here](https://github.com/Tramdon/ticket-lifecycle) to move on to the final part of this tutorial! 
